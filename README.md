@@ -5,11 +5,6 @@
   Sedang mengembangkan skill dengan tools baru dan suka mengeksplorasi hal-hal baru.
 </p>
 
-<p align="center">
-  <a href="[https://youbeljansendev.github.io/website-profile/]"><img src="https://img.shields.io/badge/Portofolio-1d4ed8?style=for-the badge&logo=googlechrome&logoColor=white" alt="Portofolio"></a>
-  <a href="https://instagram.com/h1kage_"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
 ---
 
 ### 🛠️ Tools yang pernah saya pakai
