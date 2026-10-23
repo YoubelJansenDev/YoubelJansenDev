@@ -1,55 +1,66 @@
-## Delivery pipeline
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=youbeljansendev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F340042181%3Fu%3D99c3d56fe10c54d7d6d7e2f84cbbd26eeaeee4ba%26v%3D4" alt="youbeljansendev hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=youbeljansendev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F340042181%3Fu%3D99c3d56fe10c54d7d6d7e2f84cbbd26eeaeee4ba%26v%3D4" alt="youbeljansendev hero visual" />
 </p>
 
-**Youbel Jansen** · Frontend or full-stack engineer
+<p align="center"><b>Youbel Jansen</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
-## Operating principles
+<p align="center"><a href="https://github.com/youbeljansendev">GitHub</a></p>
 
-<pre><code>ROLE        = Frontend or full-stack engineer
-LOCATION    = remote
-PUBLIC_REPOS = 4
-COMMUNITY   = 0 followers</code></pre>
-
-Building useful things and learning in public.
-
-## Uptime in motion
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=youbeljansendev&theme=github-dark" alt="youbeljansendev contribution activity" />
+  <img src="https://www.gitskins.com/api/section/projects?username=youbeljansendev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F340042181%3Fu%3D99c3d56fe10c54d7d6d7e2f84cbbd26eeaeee4ba%26v%3D4" alt="youbeljansendev projects visual" />
 </p>
 
-## Service signals
+- [website-sewa-lapangan-badminton](https://github.com/YoubelJansenDev/website-sewa-lapangan-badminton) · ★ 0
+- [YoubelJansenDev](https://github.com/YoubelJansenDev/YoubelJansenDev) · ★ 0
+- [website-profile](https://github.com/YoubelJansenDev/website-profile) · ★ 0
+- [e-procurement-website](https://github.com/YoubelJansenDev/e-procurement-website) · ★ 0
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=youbeljansendev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F340042181%3Fu%3D99c3d56fe10c54d7d6d7e2f84cbbd26eeaeee4ba%26v%3D4" alt="youbeljansendev stats visual" />
+  <img src="https://www.gitskins.com/api/section/stack?username=youbeljansendev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F340042181%3Fu%3D99c3d56fe10c54d7d6d7e2f84cbbd26eeaeee4ba%26v%3D4" alt="youbeljansendev stack visual" />
 </p>
 
-<p><code>13 contributions</code> · <code>0 day streak</code></p>
+</details>
 
-## Infrastructure shipped
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-- **[website-sewa-lapangan-badminton](https://github.com/YoubelJansenDev/website-sewa-lapangan-badminton)** — Featured public work · ⭐ 0
-- **[YoubelJansenDev](https://github.com/YoubelJansenDev/YoubelJansenDev)** — Featured public work · ⭐ 0
-- **[website-profile](https://github.com/YoubelJansenDev/website-profile)** — Featured public work · ⭐ 0
-- **[e-procurement-website](https://github.com/YoubelJansenDev/e-procurement-website)** — Featured public work · ⭐ 0
-
-## Platform toolkit
-
-<p><code>youbeljansendev@github:~$ toolbox --list</code></p>
+<b>4</b> public repositories, <b>0</b> stars, <b>13</b> contributions in the last year, a longest streak of <b>1</b> days and <b>0</b> followers.
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=youbeljansendev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F340042181%3Fu%3D99c3d56fe10c54d7d6d7e2f84cbbd26eeaeee4ba%26v%3D4" alt="youbeljansendev stack visual" />
+  <img src="https://www.gitskins.com/api/section/stats?username=youbeljansendev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F340042181%3Fu%3D99c3d56fe10c54d7d6d7e2f84cbbd26eeaeee4ba%26v%3D4" alt="youbeljansendev stats visual" />
 </p>
 
-## Keep it moving
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=youbeljansendev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F340042181%3Fu%3D99c3d56fe10c54d7d6d7e2f84cbbd26eeaeee4ba%26v%3D4" alt="youbeljansendev social visual" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=youbeljansendev&theme=neon" alt="youbeljansendev contribution activity" />
 </p>
 
-<a href="https://github.com/youbeljansendev">GitHub</a>
+</details>
 
-<p align="center"><sub>Youbel Jansen · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=youbeljansendev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F340042181%3Fu%3D99c3d56fe10c54d7d6d7e2f84cbbd26eeaeee4ba%26v%3D4" alt="youbeljansendev social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Youbel Jansen · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
