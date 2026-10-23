@@ -21,9 +21,18 @@
 
 </details>
 
-<details>
-<summary><b>🧰 Stack</b></summary>
+<details open>
+<summary><b>🧰 Stack & Tools</b></summary>
 <br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</p>
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=youbeljansendev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F340042181%3Fu%3D99c3d56fe10c54d7d6d7e2f84cbbd26eeaeee4ba%26v%3D4" alt="youbeljansendev stack visual" />
